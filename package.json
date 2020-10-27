@@ -1,0 +1,19 @@
+{
+  "name": "discordbot-nodebase",
+  "version": "1.0.0",
+  "description": "njs 12 djs 12 discord bot base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trapss/discordbot-nodebase.git"
+  },
+  "author": "iTrqPss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trapss/discordbot-nodebase/issues"
+  },
+  "homepage": "https://github.com/Trapss/discordbot-nodebase#readme"
+}
